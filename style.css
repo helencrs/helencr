@@ -1,0 +1,22 @@
+div.put {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+div.click {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+div.ft {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+}
